@@ -4,7 +4,7 @@ Feel free to check out my repositories to see the things I make!
 
 ### About Me
 + I mainly use Neovim as my text editor
-+ I love looking digital artworks 
++ I love digital artworks 
 + I love coding puzzles! Fun and challenge in a single package!
 
 ### Interests
