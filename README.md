@@ -4,7 +4,7 @@ Feel free to check out my repositories to see the things I make!
 
 ### About Me
 `🖼 Digital drawing hobbyist` - `💻 Programmer` <br>
-I mainly use Neovim as my text editor and coding puzzles! Fun and challenge in a single package!
+I mainly use Neovim as my workspace and I love coding puzzles, fun and challenge in a single package!
 
 ### Interests
 Here are the topics I am interested in! <br>
