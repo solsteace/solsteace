@@ -3,8 +3,8 @@
 
 <svg
    width="1600"
-   height="900"
-   viewBox="0 0 423.33332 238.125"
+   height="450"
+   viewBox="0 0 423.33332 119.0625"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.34457071"
-     inkscape:cx="780.68155"
-     inkscape:cy="586.2367"
+     inkscape:cx="551.41077"
+     inkscape:cy="586.23671"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -38,14 +38,14 @@
      inkscape:current-layer="layer1" /><defs
      id="defs2"><rect
        x="211.37025"
-       y="129.28472"
+       y="129.28471"
        width="297.56006"
-       height="61.564146"
+       height="61.564144"
        id="rect1004" /><rect
        x="211.37025"
        y="129.28471"
-       width="215.5485"
-       height="25.342372"
+       width="215.54849"
+       height="25.342373"
        id="rect1004-8" /><rect
        x="211.37025"
        y="129.28471"
@@ -64,13 +64,13 @@
        id="rect1004-88" /><rect
        x="211.37025"
        y="129.28471"
-       width="215.5485"
-       height="25.342372"
+       width="215.54849"
+       height="25.342373"
        id="rect1389" /><rect
        x="211.37025"
        y="129.28471"
-       width="215.5485"
-       height="25.342372"
+       width="215.54849"
+       height="25.342373"
        id="rect1395" /><rect
        x="211.37025"
        y="129.28471"
@@ -89,25 +89,25 @@
        inkscape:label="BG"
        sodipodi:insensitive="true" /><g
        id="g2857"
-       transform="translate(0,-10.974392)"><text
+       transform="matrix(0.92673151,0,0,0.92673151,-18.352298,-60.978035)"><text
          xml:space="preserve"
          transform="matrix(0.79446597,0,0,0.79446597,-132.76362,-21.915009)"
          id="text1002"
          style="white-space:pre;shape-inside:url(#rect1004);display:inline;fill:#f1f1f1;fill-opacity:1"><tspan
            x="211.37109"
            y="177.32536"
-           id="tspan2939"><tspan
+           id="tspan355"><tspan
              style="font-weight:bold;font-size:53.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold'"
-             id="tspan2937">LanCreate5</tspan></tspan></text><text
+             id="tspan353">LanCreate5</tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.79446597,0,0,0.79446597,-130.3257,60.231589)"
          id="text1387-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1389-8);display:inline;fill:#cecece;fill-opacity:1"><tspan
            x="211.37109"
            y="140.48442"
-           id="tspan2943"><tspan
+           id="tspan359"><tspan
              style="font-size:12.4332px"
-             id="tspan2941">Feel free to take a look around~</tspan></tspan></text><g
+             id="tspan357">Feel free to take a look around~</tspan></tspan></text><g
          id="g2838"
          transform="translate(-0.81062432)"><text
            xml:space="preserve"
@@ -116,13 +116,13 @@
            style="white-space:pre;shape-inside:url(#rect1389);display:inline;fill:#f1f1f1;fill-opacity:1"><tspan
              x="211.37109"
              y="148.67833"
-             id="tspan2951"><tspan
+             id="tspan367"><tspan
                style="font-size:21.3141px;-inkscape-font-specification:'sans-serif, Normal';fill:#c5c5c5"
-               id="tspan2945">    Code  </tspan><tspan
+               id="tspan361">    Code  </tspan><tspan
                style="font-weight:bold;font-size:21.3141px;-inkscape-font-specification:'sans-serif, Bold';fill:#c5c5c5"
-               id="tspan2947">·</tspan><tspan
+               id="tspan363">·</tspan><tspan
                style="font-size:21.3141px;-inkscape-font-specification:'sans-serif, Normal';fill:#c5c5c5"
-               id="tspan2949">        Draw</tspan></tspan></text><g
+               id="tspan365">        Draw</tspan></tspan></text><g
            id="g1435"
            transform="matrix(0.0789274,0,0,0.08296278,137.52765,127.68677)">
 	
@@ -140,7 +140,7 @@
    id="path1425" />
 	<polygon
    style="fill:#ffdb77"
-   points="33.522,190.99 7.514,261.545 78.07,235.538 "
+   points="78.07,235.538 33.522,190.99 7.514,261.545 "
    id="polygon1427" />
 	<g
    id="g1433">
