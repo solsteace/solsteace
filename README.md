@@ -1,9 +1,16 @@
 <p align = "middle"><img src="./banner.png"> </p>
 
-# 👋 Greetings!
+# 👋 Greetings, Stranger!
 <p>
-Welcome to my github profile! You can call me Lan!<br>
+Lan, humbly welcomes you to my workshop <br>
+Enjoy your stay ت
 </p>
 
-# 🧰 My Toolbox
-`neovim` `C++` `Go` `Python`
+## 🧰 I use...
+`neovim` `kitty` <br>
+`C++` `Go` `Python` 
+
+## 🌱 I'm currently learning...
+`Web Development`
+
+
