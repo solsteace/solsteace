@@ -1,14 +1,8 @@
-<p align = "middle"><img src="./banner.png"> </p>
-
-# 👋 Sup, Stranger!
-Welcome to my uhh... place where I put my things. This might not
-the place where I put the real deals and keep my things organized,
-but hey! Feel free to look around!
-
-# 🧰 Gears!
+# Arsenal
 `neovim` `kitty` <br>
 `C++` `Go` `Python` 
 
-# 🌱 Currently learning...
-`Web Development`
+# 🌱 Currently learning
+Here are the things I found interesting and currently being learned <br/>
+`🖼️ Frontend WebDevel` `⚙️ Backend WebDevel` `👀 Computer Vision`
 
