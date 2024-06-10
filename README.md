@@ -1,11 +1,12 @@
-# 👋 Greetings, visitor!
+# Greetings, visitor👋
 
-### Arsenal
-🛠️ `Neovim` `Kitty` `VSCodium` `Tmux`<br/>
-🗨️ `C++` `Go` `Python` `Javascript` <br/>
-🧰 `React`
+## Arsenal
+The things I usually work with! <br/>
+🛠️ `VSCodium` `Neovim` `Kitty` `Tmux` <br/>
+🗨️ `Javascript`  `Python` `MySQL` `Go` `C++` <br/>
+🧰 `ExpressJS` `React`
 
-### 🌱 Interests
-Here are the things I found interesting and currently being learned <br/>
-`🖼️ Frontend WebDevel` `⚙️ Backend WebDevel` `👀 Computer Vision`
+## Interests 🌱
+Tech-related topics I found interesting and currently being learned <br/>
+`⚙️ Backend Webdevel` `🖼️ Frontend Webdevel` `👀 Computer Vision`
 
