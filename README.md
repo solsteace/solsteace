@@ -23,7 +23,7 @@ Things I like to work with! <br/>
 
 ## 🌱 Interests
 Tech-related topics I found interesting in which some are currently being learned <br/>
-![Backend Development](https://img.shields.io/badge/-⚙️Backend%20Dev-40106b.svg?style=for-the-badge)
-![Frontend Developement](https://img.shields.io/badge/-🖼️Frontend%20Web%20Dev-400a4c.svg?style=for-the-badge)
-![ComputerVision](https://img.shields.io/badge/-👀Computer%20Vision-310b4f.svg?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/-Backend%20Dev-40106b.svg?style=for-the-badge)
+![Frontend Developement](https://img.shields.io/badge/-Frontend%20Web%20Dev-400a4c.svg?style=for-the-badge)
+![ComputerVision](https://img.shields.io/badge/-Computer%20Vision-310b4f.svg?style=for-the-badge)
 
