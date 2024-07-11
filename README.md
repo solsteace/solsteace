@@ -12,8 +12,9 @@ Things I like to work with! <br />
 ![CSS3](https://img.shields.io/badge/css3-310b4f.svg?style=for-the-badge&logo=css3&logoColor=ffe787)
 ![SASS](https://img.shields.io/badge/SASS-310b4f.svg?style=for-the-badge&logo=SASS&logoColor=ffe787)
 <br/>
-![Frameworks](https://img.shields.io/badge/-Frameworks-511b84?style=for-the-badge) 
+![Frameworks/Env](https://img.shields.io/badge/-Frameworks%20%26%20envs-511b84?style=for-the-badge) 
 ![Express.js](https://img.shields.io/badge/express.js-310b4f.svg?style=for-the-badge&logo=express&logoColor=ffe787)
+![Node.js](https://img.shields.io/badge/node.js-310b4f.svg?style=for-the-badge&logo=node.js&logoColor=ffe787)
 ![React](https://img.shields.io/badge/react-310b4f.svg?style=for-the-badge&logo=react&logoColor=ffe787)
 ![FastAPI](https://img.shields.io/badge/FastAPI-310b4f?style=for-the-badge&logo=fastapi&logoColor=ffe787)
 <br/>
