@@ -4,9 +4,10 @@
 Things I like to work with! <br />
 ![Languages](https://img.shields.io/badge/-Languages-511b84?style=for-the-badge) 
 ![JavaScript](https://img.shields.io/badge/javascript-310b4f.svg?style=for-the-badge&logo=javascript&logoColor=ffe787)
+![TypeScript](https://img.shields.io/badge/typescript-310b4f.svg?style=for-the-badge&logo=typescript&logoColor=ffe787)
+![Go](https://img.shields.io/badge/go-310b4f.svg?style=for-the-badge&logo=go&logoColor=ffe787)
 ![Python](https://img.shields.io/badge/python-310b4f?style=for-the-badge&logo=python&logoColor=ffe787)
 ![SQL](https://img.shields.io/badge/sql-310b4f.svg?style=for-the-badge&logo=mariadb&logoColor=ffe787) 
-![Go](https://img.shields.io/badge/go-310b4f.svg?style=for-the-badge&logo=go&logoColor=ffe787)
 ![C++](https://img.shields.io/badge/c++-310b4f.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffe787)
 ![HTML5](https://img.shields.io/badge/html5-310b4f.svg?style=for-the-badge&logo=html5&logoColor=ffe787)
 ![CSS3](https://img.shields.io/badge/css3-310b4f.svg?style=for-the-badge&logo=css3&logoColor=ffe787)
