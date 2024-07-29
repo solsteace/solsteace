@@ -1,4 +1,4 @@
-<img src="assets/GHbanner.png">
+ <img src="assets/GHbanner.png">
 
 ## 🧰 Arsenal
 Things I like to work with! <br />
@@ -30,6 +30,13 @@ Things I like to work with! <br />
 ![any-Vim](https://img.shields.io/badge/%2AVIM-310b4f.svg?style=for-the-badge&logo=vim&logoColor=ffe787)
 ![Git](https://img.shields.io/badge/git-%23310b4f.svg?style=for-the-badge&logo=git&logoColor=ffe787)
 ![Postman](https://img.shields.io/badge/postman-%23310b4f.svg?style=for-the-badge&logo=postman&logoColor=ffe787)
+<br/>
+
+Other things I have worked with (can't say me like it, tho) <br />
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+
 
 ## 🌱 Interests
 Tech-related topics I found interesting in which some are currently being learned <br/>
