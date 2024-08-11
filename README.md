@@ -32,7 +32,7 @@ Things I like to work with! <br />
 ![Postman](https://img.shields.io/badge/postman-%23310b4f.svg?style=for-the-badge&logo=postman&logoColor=ffe787)
 <br/>
 
-Other things I have worked with (can't say me like it, tho) <br />
+Other things I have worked with: <br />
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
