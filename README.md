@@ -21,17 +21,18 @@
 ⣿⣧⢻⣿⣿⣿⣿⣧⢳⣾⣮⣓⠭⣛⣛⣫⣵⣿⣦⣀⣴⣿⣷⣮⠭⣉⣒⣭⣶⣱⡾⢟⣽⡟⣼⣿
 ⢿⣿⣮⢜⠿⣿⣿⣿⣧⡐⡉⢩⣾⢰⣶⣭⢩⣉⠉⣉⠉⡭⠆⣶⣿⡝⢿⣿⣿⣶⢪⡾⢟⡼⡿⢟
 ⡑⡐⡉⡉⡉⡐⡉⡙⡛⡋⡐⢸⣿⢸⣿⣿⡇⣷⡟⣭⢻⣾⢸⣿⣿⡇⣷⠐⡑⡑⡒⡑⡉⡘⡘⡐
-```
-    
+```    
    </td>
 
    <td>
 
 ## Hello hello!
 
-The name's Allen, it's a pleasure! 
+The name's Allen, it's a pleasure! [^Disclaimer]
 
 > This section is currently still a work-in-progress!
+
+[^Disclaimer]: I traced an image to make this ([Disclaimer](https://github.com/solsteace/dotrc/tree/main/_assets#disclaimer))
     
    </td>
   </tr>
