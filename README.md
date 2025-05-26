@@ -26,26 +26,27 @@
 
    <td>
 
-## Hello hello!
+# Hello hello!
 
-Hi, the name's Allen! Here you could find my <strike> practice-ground-disguised-as</strike> projects. Not the most wowzers one, but hope you could find some neat insights there :]
+The name's Allen! Here you could find my <strike> practice-ground-disguised-as</strike> projects. Not the most wowzers out there, but hope you could find some neat insights there :]
 
 > And oh, about the image beside... [^Disclaimer]
+
+## Interests 🌱
+![Grinding](https://img.shields.io/badge/-Grinding-48337a?style=for-the-badge) 
+![Backend Development](https://img.shields.io/badge/-Backend%20Dev-291f46.svg?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps-291f46.svg?style=for-the-badge)
+![System Design](https://img.shields.io/badge/-System%20Design-291f46.svg?style=for-the-badge)
+<br/>
+![For Later](https://img.shields.io/badge/-4Later-48337a?style=for-the-badge) 
+![ComputerVision](https://img.shields.io/badge/-Computer%20Vision-291f46.svg?style=for-the-badge)
+![Frontend Developement](https://img.shields.io/badge/-Frontend%20Web%20Dev-291f46.svg?style=for-the-badge)
 
 [^Disclaimer]: I traced an image to make this ([Disclaimer](https://github.com/solsteace/dotrc/tree/main/_assets#disclaimer))
     
    </td>
   </tr>
  </table>
-
-## Interests 🌱
-![Grinding](https://img.shields.io/badge/-Grinding-48337a?style=for-the-badge) 
-![Backend Development](https://img.shields.io/badge/-Backend%20Dev-291f46.svg?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/-DevOps-291f46.svg?style=for-the-badge)
-<br/>
-![For Later](https://img.shields.io/badge/-4Later-48337a?style=for-the-badge) 
-![ComputerVision](https://img.shields.io/badge/-Computer%20Vision-291f46.svg?style=for-the-badge)
-![Frontend Developement](https://img.shields.io/badge/-Frontend%20Web%20Dev-291f46.svg?style=for-the-badge)
 
 ## Arsenal 🧰
 
