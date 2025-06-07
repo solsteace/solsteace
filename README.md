@@ -28,7 +28,7 @@
 
 # Hello hello!
 
-You can call me Allen! Here you could find my <strike> practice-ground-disguised-as</strike> projects. Not the most wowzers ones out there, but hope it could provide you could some neat insights :]
+You can call me Allen! Here you could find my <strike> practice-ground-disguised-as</strike> projects. Not the most wowzers ones out there, but hope it could provide you some neat insights :]
 
 > And oh, about the image beside... [^Disclaimer]
 
