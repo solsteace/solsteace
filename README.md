@@ -63,6 +63,6 @@ You can call me Allen! Here you could find my <strike> practice-ground-disguised
 
 ## WIPs
 
-- [9p10](https://github.com/nineplus10) — AKA nine-plus-ten. A multiplayer blackjack game inspired from RE7's `21` expansion.
-- [Gourmets](https://github.com/solsteace/gourmets) — An attempt on the modular monolithic approach for restaurant and culinary discovery REST API with a portion of DDD-taste
+- [9p10](https://github.com/nineplus10) — AKA nine-plus-ten or 9p10. A multiplayer blackjack game based on RE7's `21` expansion.
+- [Kochira](https://github.com/solsteace/kochira) — A simple URL shortener
 
