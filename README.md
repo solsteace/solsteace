@@ -59,9 +59,10 @@ You can call me Allen! Here you could find my <strike> practice-ground-disguised
 
 ## Projects
 
+- [kochira](https://github.com/solsteace/kochira) — A simple URL shortener web server with better availability and flexible deployment
 - [goody](https://github.com/solsteace/goody) — Exploration of CRUD API implementation in Go ecosystem
 
 ## WIPs
 
-- [kochira](https://github.com/solsteace/kochira) — A simple URL shortener
 - [9p10](https://github.com/nineplus10) — AKA nine-plus-ten / 9p10, A multiplayer blackjack game based on RE7's `21` expansion.
+
