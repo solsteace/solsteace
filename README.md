@@ -47,22 +47,5 @@ You can call me Allen! Here you could find my <strike> practice-ground-disguised
    </td>
   </tr>
  </table>
- 
-## Arsenal
 
-![Fedora](https://img.shields.io/badge/Fedora-24273a?style=for-the-badge&logo=fedora&logoColor=ffe787)
-![any-Vim](https://img.shields.io/badge/%2AVIM-24273a.svg?style=for-the-badge&logo=vim&logoColor=ffe787)
-![VSCodium](https://img.shields.io/badge/VSCodium-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffe787)
-![Tmux](https://img.shields.io/badge/Tmux-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffe787)
-![Docker](https://img.shields.io/badge/docker-24273a.svg?style=for-the-badge&logo=docker&logoColor=ffe787)
-![Apidog](https://img.shields.io/badge/apidog-24273a.svg?style=for-the-badge&logoColor=ffe787)
-
-## Projects
-
-- [kochira](https://github.com/solsteace/kochira) — A simple URL shortener web server with better availability and flexible deployment
-- [goody](https://github.com/solsteace/goody) — Exploration of CRUD API implementation in Go ecosystem
-
-## WIPs
-
-- [9p10](https://github.com/nineplus10) — AKA nine-plus-ten / 9p10, A multiplayer blackjack game based on RE7's `21` expansion.
 
