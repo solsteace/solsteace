@@ -1,3 +1,6 @@
+> Moving main activity to Codeberg! I would be keeping and using this account only for playing around stuff that is only
+> possible to do with Github
+
  <table>
   <tr>
    <td>
@@ -47,5 +50,6 @@ You can call me Allen! Here you could find my <strike> practice-ground-disguised
    </td>
   </tr>
  </table>
+
 
 
